@@ -1,4 +1,4 @@
-# Planning-Inc: AdventureWorks Case Study
+# AdventureWorks Case Study
 # Tarek Salhi
 
 
